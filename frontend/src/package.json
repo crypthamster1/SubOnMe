@@ -1,0 +1,10 @@
+{
+  "name": "base-subscription-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "ethers": "^5.7.2"
+  }
+}
